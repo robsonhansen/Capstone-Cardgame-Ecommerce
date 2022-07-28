@@ -3,7 +3,7 @@
 const data = [
   {
     id: 1,
-    img: "/assets/img/pokemon/ultrararas/1-CHARIZARD.png",
+    img: "assets/img/pokemon/ultrararas/1-CHARIZARD.png",
     nameCard: "Charizard",
     description:
       "Charizard (#136-135)",
@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 2,
-    img: "/assets/img/pokemon/ultrararas/2-Groudon-EX.png",
+    img: "assets/img/pokemon/ultrararas/2-Groudon-EX.png",
     nameCard: "Groundon EX",
     description:
       "Groundon-EX (#106-108)",
@@ -23,7 +23,7 @@ const data = [
   },
   {
     id: 3,
-    img: "/assets/img/pokemon/ultrararas/3-Lugia-EX.png",
+    img: "assets/img/pokemon/ultrararas/3-Lugia-EX.png",
     nameCard: "Lugya EX",
     description:
       "Lugya-EX (#94-98)",
@@ -33,7 +33,7 @@ const data = [
   },
   {
     id: 4,
-    img: "/assets/img/pokemon/ultrararas/4-Charizard-VMAX.jpg",
+    img: "assets/img/pokemon/ultrararas/4-Charizard-VMAX.jpg",
     nameCard: "Charizard VMAX",
     description:
       "Charizard-VMAX (#20-189)",
@@ -43,7 +43,7 @@ const data = [
   },
   {
     id: 5,
-    img: "/assets/img/pokemon/ultrararas/5-Greninja-GX.jpg",
+    img: "assets/img/pokemon/ultrararas/5-Greninja-GX.jpg",
     nameCard: "Grenija GX",
     description:
       "Grenija-GX (#133-131)",
@@ -53,7 +53,7 @@ const data = [
   },
   {
     id: 6,
-    img: "/assets/img/pokemon/ultrararas/6-Rayquaza-EX.png",
+    img: "assets/img/pokemon/ultrararas/6-Rayquaza-EX.png",
     nameCard: "Rayquaza EX",
     description:
       "Rayquaza-EX (#123-124)",
@@ -63,7 +63,7 @@ const data = [
   },
   {
     id: 7,
-    img: "/assets/img/pokemon/ultrararas/7-CALYREX_CAVALEIRO_ESPECTRAL.jpg",
+    img: "assets/img/pokemon/ultrararas/7-CALYREX_CAVALEIRO_ESPECTRAL.jpg",
     nameCard: "Calyrrex Cavaleiro Espectral",
     description:
       "Calyrrex-Cavaleiro Espectral (#172-198)",
@@ -73,7 +73,7 @@ const data = [
   },
   {
     id: 8,
-    img: "/assets/img/pokemon/ultrararas/8-Raikou-EX.png",
+    img: "assets/img/pokemon/ultrararas/8-Raikou-EX.png",
     nameCard: "Raikou EX",
     description:
       "Raikou-EX (#105-108)",
@@ -83,7 +83,7 @@ const data = [
   },
   {
     id: 9,
-    img: "/assets/img/pokemon/ultrararas/9-Noivern-V.jpg",
+    img: "assets/img/pokemon/ultrararas/9-Noivern-V.jpg",
     nameCard: "Noivern V",
     description:
       "Noivern-V (#196-203)",
@@ -93,7 +93,7 @@ const data = [
   },
   {
     id: 10,
-    img: "/assets/img/pokemon/ultrararas/10-Mewtwo-EX.png",
+    img: "assets/img/pokemon/ultrararas/10-Mewtwo-EX.png",
     nameCard: "Mewtwo EX",
     description:
       "Mewtwo-EX (#158-162)",
@@ -103,7 +103,7 @@ const data = [
   },
   {
     id: 11,
-    img: "/assets/img/yugioh/ultrarare/1-PEQUENAMAGANEGRA.jpg",
+    img: "assets/img/yugioh/ultrarare/1-PEQUENAMAGANEGRA.jpg",
     nameCard: "Pequena Maga Negra",
     description:
       "Dark Magician Girl(#MFC-000)",
@@ -113,7 +113,7 @@ const data = [
   },
   {
     id: 12,
-    img: "/assets/img/yugioh/ultrarare/2-MAGONEGRO.jpg",
+    img: "assets/img/yugioh/ultrarare/2-MAGONEGRO.jpg",
     nameCard: "Mago Negro",
     description:
       "Dark Magician (#25TH-EN001)",
@@ -123,7 +123,7 @@ const data = [
   },
   {
     id: 13,
-    img: "/assets/img/yugioh/ultrarare/3-RAVIEL.jpg",
+    img: "assets/img/yugioh/ultrarare/3-RAVIEL.jpg",
     nameCard: "Raviel",
     description:
       "Raviel, Lord of Phantasms (#SOI-EN003)",
@@ -133,7 +133,7 @@ const data = [
   },
   {
     id: 14,
-    img: "/assets/img/yugioh/ultrarare/4-GUERREIRO-SHIBA-TARO.jpg",
+    img: "assets/img/yugioh/ultrarare/4-GUERREIRO-SHIBA-TARO.jpg",
     nameCard: "Guerreiro Shiba Taro",
     description:
       "Shiba-Warrior Taro (#YAP1-EN008)",
@@ -143,7 +143,7 @@ const data = [
   },
   {
     id: 15,
-    img: "/assets/img/yugioh/ultrarare/5-ELEMENTAL-HERO-AIR-NEOS.png",
+    img: "assets/img/yugioh/ultrarare/5-ELEMENTAL-HERO-AIR-NEOS.png",
     nameCard: "Elemental Hero Air Neos",
     description:
       "Elemental Hero Air Neos (#STON-EN034)",
@@ -153,7 +153,7 @@ const data = [
   },
   {
     id: 16,
-    img: "/assets/img/yugioh/ultrarare/6-DRAGÃO-CAVEIRA-NEGRO.png",
+    img: "assets/img/yugioh/ultrarare/6-DRAGÃO-CAVEIRA-NEGRO.png",
     nameCard: "Dragão Cavaleiro Negro",
     description:
       "B.Skull Dragon(#MRD-018)",
@@ -163,7 +163,7 @@ const data = [
   },
   {
     id: 17,
-    img: "/assets/img/yugioh/ultrarare/7-DRAGAO-NEGRO-DE-OLHOS-VERMELHOS.jpg",
+    img: "assets/img/yugioh/ultrarare/7-DRAGAO-NEGRO-DE-OLHOS-VERMELHOS.jpg",
     nameCard: "Dragão Negro de Olhos Vermelhos",
     description:
       "Red-Eyes B.Dragon(#LOB-070)",
@@ -173,7 +173,7 @@ const data = [
   },
   {
     id: 18,
-    img: "/assets/img/yugioh/ultrarare/8-POTE-DA-EXTRAVAGANCIA.jpg",
+    img: "assets/img/yugioh/ultrarare/8-POTE-DA-EXTRAVAGANCIA.jpg",
     nameCard: "Pote da Extravagância",
     description:
       "Pot of Extravagance(#TOCH-EN059)",
@@ -183,7 +183,7 @@ const data = [
   },
   {
     id: 19,
-    img: "/assets/img/yugioh/ultrarare/9-EXODIA.jpg",
+    img: "assets/img/yugioh/ultrarare/9-EXODIA.jpg",
     nameCard: "Exodia",
     description:
       "Exodia The Forbidden One(#LOB-124)",
@@ -193,7 +193,7 @@ const data = [
   },
   {
     id: 20,
-    img: "/assets/img/yugioh/ultrarare/10-DRAGAO-TOON-DE-OLHOS-AZUIS.png",
+    img: "assets/img/yugioh/ultrarare/10-DRAGAO-TOON-DE-OLHOS-AZUIS.png",
     nameCard: "Dragão Toon de Olhos Azuis",
     description:
       "Blue-Eyes Toon Dragon(#SRL-000)",
@@ -203,7 +203,7 @@ const data = [
   },
   {
     id: 21,
-    img: "/assets/img/magic/mitic/1-oDeusEscaravelhoTheScarabGod.jpg",
+    img: "assets/img/magic/mitic/1-oDeusEscaravelhoTheScarabGod.jpg",
     nameCard: "O Deus Escaravelho",
     description:
       "The Scarab God",
@@ -213,7 +213,7 @@ const data = [
   },
   {
     id: 22,
-    img: "/assets/img/magic/mitic/2-aImperatrizErrante.jpg",
+    img: "assets/img/magic/mitic/2-aImperatrizErrante.jpg",
     nameCard: "A Imperatriz Errante",
     description:
       "The Wandering Emperor(#303)",
@@ -223,7 +223,7 @@ const data = [
   },
   {
     id: 23,
-    img: "/assets/img/magic/mitic/3-dragãodeCobreAnciao.jpg",
+    img: "assets/img/magic/mitic/3-dragãodeCobreAnciao.jpg",
     nameCard: "Dragão de Cobre Ancião",
     description:
       "Ancient Copper Dragon",
@@ -233,7 +233,7 @@ const data = [
   },
   {
     id: 24,
-    img: "/assets/img/magic/mitic/4-bosqueAlagado.jpg",
+    img: "assets/img/magic/mitic/4-bosqueAlagado.jpg",
     nameCard: "Bosque Alagado",
     description:
       "Flooded Grove",
@@ -243,7 +243,7 @@ const data = [
   },
   {
     id: 25,
-    img: "/assets/img/magic/mitic/5-karnLiberto.jpg",
+    img: "assets/img/magic/mitic/5-karnLiberto.jpg",
     nameCard: "Karn Liberto",
     description:
       "Karn Liberated",
@@ -253,7 +253,7 @@ const data = [
   },
   {
     id: 26,
-    img: "/assets/img/magic/mitic/6-regenteMarturvo.jpg",
+    img: "assets/img/magic/mitic/6-regenteMarturvo.jpg",
     nameCard: "Regente Martuvo",
     description:
       "Murktide Regent",
@@ -263,7 +263,7 @@ const data = [
   },
   {
     id: 27,
-    img: "/assets/img/magic/mitic/7-vorinclexMonstrousRaider.jpg",
+    img: "assets/img/magic/mitic/7-vorinclexMonstrousRaider.jpg",
     nameCard: "Vorinclex, Salteador Monstruoso",
     description:
       "Vorinclex, Monstrous Raider",
@@ -273,7 +273,7 @@ const data = [
   },
   {
     id: 28,
-    img: "/assets/img/magic/mitic/8-colossoCultivador.jpg",
+    img: "assets/img/magic/mitic/8-colossoCultivador.jpg",
     nameCard: "Colosso Cultivador",
     description:
       "Cultivador colossus",
@@ -283,7 +283,7 @@ const data = [
   },
   {
     id: 29,
-    img: "/assets/img/magic/mitic/9-dackFayden.jpg",
+    img: "assets/img/magic/mitic/9-dackFayden.jpg",
     nameCard: "Dack Fayden",
     description:
       "Dack Fayden",
@@ -293,7 +293,7 @@ const data = [
   },
   {
     id: 30,
-    img: "/assets/img/magic/mitic/10-kairi.jpg",
+    img: "assets/img/magic/mitic/10-kairi.jpg",
     nameCard: "Kairi, o Céu Turbilhonante (#408)",
     description:
       "Kairi, the Swirling Sky (#408)",
@@ -304,7 +304,7 @@ const data = [
   //novos Cards
   {
     id: 31,
-    img: "/assets/img/pokemon/ultrararas/11-PIKACHU.jpg",
+    img: "assets/img/pokemon/ultrararas/11-PIKACHU.jpg",
     nameCard: "Pikachu",
     description:
       "Pikachu (#RC29/83)",
@@ -314,7 +314,7 @@ const data = [
   },
   {
     id: 32,
-    img: "/assets/img/pokemon/ultrararas/12-ZOROARK-GX.jpg",
+    img: "assets/img/pokemon/ultrararas/12-ZOROARK-GX.jpg",
     nameCard: "Zoroark-GX",
     description:
       "Zoroark-GX (#77/73)",
@@ -324,7 +324,7 @@ const data = [
   },
   {
     id: 33,
-    img: "/assets/img/yugioh/ultrarare/11-VIRA-PÁGINAS-TOON.jpg",
+    img: "assets/img/yugioh/ultrarare/11-VIRA-PÁGINAS-TOON.jpg",
     nameCard: "Vira-Páginas Toon",
     description:
       "Toon Page-Flip(#TOCH-EN004)",
@@ -334,7 +334,7 @@ const data = [
   },
   {
     id: 34,
-    img: "/assets/img/yugioh/ultrarare/12-DRAGÃO-Azul.png",
+    img: "assets/img/yugioh/ultrarare/12-DRAGÃO-Azul.png",
     nameCard: "Dragão Branco de Olhos Azuis",
     description:
       "Blue-Eyes White Dragon(#JMP-001)",
@@ -344,7 +344,7 @@ const data = [
   },
   {
     id: 35,
-    img: "/assets/img/magic/mitic/11-kaito.jpg",
+    img: "assets/img/magic/mitic/11-kaito.jpg",
     nameCard: "Keito Shizuki",
     description:
       "Kaito Shizuki",
@@ -354,7 +354,7 @@ const data = [
   },
   {
     id: 36,
-    img: "/assets/img/magic/mitic/12-tarmogoyf.jpg",
+    img: "assets/img/magic/mitic/12-tarmogoyf.jpg",
     nameCard: "Tarmogoyf",
     description:
       "Tarmogoyf",
