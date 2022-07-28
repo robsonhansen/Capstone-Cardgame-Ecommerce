@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/reset.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <script src="assets/js/database.js" defer></script>
+    <script src="assets/js/pokemon.js" defer></script>
+    <link rel="shortcut icon" href="assets/img/logo/fivecon.svg" type="image/x-icon">
+    <title>UltraRara | Home</title>
+</head>
+
+<body>
+    <header class="nave">
+        <div class="container-nav">
+            <div class="logo"><a href="index.html"><img src="assets/img/logo/logo-1.svg" alt="Logo UltraRara"></a></img>
+            </div>
+            <div class="navegacao">
+                <ul>
+                    <li id="todos-a"><a href="index.html">Todos</a></li>
+                    <li><a href="#">Acessórios</a></li>
+                    <li><a href="pokemon.html">Pokémon</a></li>
+                    <li><a href="yugioh.html">Yu-Gi-Oh</a></li>
+                    <li><a href="magic.html">Magic</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main class="container-main">
+        <section class="card-sessao">
+            <section class="card-pokemon">
+                <ul class="card-lista" id="lista-pokemon">
+                </ul>
+            </section>
+        </section>
+        <section class="carrinho-pesquisa">
+            <section class="pesquisa">
+                <input type="text" placeholder="Digite aqui sua pesquisa" class="pesquisa-input">
+                <button type="submit" class="pesquisa-button">Pesquisar</button>
+            </section>
+            <section class="carrinho">
+                <h3 class="carrinho-nome">
+                    Carrinho de Compras
+                </h3>
+                <ul class="lista-carrinho">
+                    <div id="carrinho-vazio">
+                        <p>Carrinho vázio</p>
+                        <span>Adicone itens</span>
+                    </div>
+                </ul>
+            </section>
+        </section>
+    </main>
+
+</body>
+
+</html>
